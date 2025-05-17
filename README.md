@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**ALX Listing App** is a solution to the assignment "Insta-Spots". The goal of this project is to create a clone of the Airbnb listing page, allowing users to explore and interact with various property listings. The app demonstrates core web development concepts such as component-based architecture, reusable interfaces, and static asset management.
+The goal of this project is to create a clone of the Airbnb listing page, allowing users to explore and interact with various property listings. The app demonstrates core web development concepts such as component-based architecture, reusable interfaces, and static asset management.
 
 ## Project Structure
 
