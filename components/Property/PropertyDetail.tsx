@@ -1,5 +1,9 @@
 import { PropertyProps } from "@/interfaces/index";
 
+
+interface ProertyDetailProps{
+  property: PropertyProps;
+}
 const PropertyDetail: React.FC<{ property: PropertyProps }> = ({
   property,
 }) => {
